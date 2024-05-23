@@ -1,9 +1,9 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: doc.sfl.world
 branding:
   title: SFL World
-  label: Docs
+  logo: /static/icon_pwa.png
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
